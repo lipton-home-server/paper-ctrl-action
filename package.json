@@ -1,0 +1,24 @@
+{
+  "name": "home-server-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipton-home-server/home-server-pipeline.git"
+  },
+  "author": "clone0922@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lipton-home-server/home-server-pipeline/issues"
+  },
+  "homepage": "https://github.com/lipton-home-server/home-server-pipeline#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^6.0.0",
+    "axios": "^1.7.7"
+  }
+}
